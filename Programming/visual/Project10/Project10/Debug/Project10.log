@@ -1,0 +1,11 @@
+﻿  list.c
+C:\Users\bohda\source\repos\Project10\Project10\list.c(59,17): warning C4098:  addNode: функция типа "void", возвращающая значение
+C:\Users\bohda\source\repos\Project10\Project10\list.c(72,12): warning C4013:  time: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\bohda\source\repos\Project10\Project10\list.c(121,30): warning C4244:  =: преобразование "double" в "int", возможна потеря данных
+C:\Users\bohda\source\repos\Project10\Project10\list.c(116,1): warning C4244:  инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\bohda\source\repos\Project10\Project10\list.c(132,9): warning C4033:  "countBeforeMax" должен возвращать значение
+C:\Users\bohda\source\repos\Project10\Project10\list.c(171,18): warning C4018:  <: несоответствие типов со знаком и без знака
+C:\Users\bohda\source\repos\Project10\Project10\list.c(175,27): warning C4244:  =: преобразование "double" в "int", возможна потеря данных
+C:\Users\bohda\source\repos\Project10\Project10\list.c(241,1): warning C4047:  инициализация: "int" отличается по уровням косвенного обращения от "Node *"
+C:\Users\bohda\source\repos\Project10\Project10\list.c(241,1): warning C4047: C:\Users\bohda\source\repos\Project10\Project10\list.c(151) : warning C4715: countBeforeMax: значение возвращается не при всех путях выполнения
+  Project10.vcxproj -> C:\Users\bohda\source\repos\Project10\Debug\Project10.exe

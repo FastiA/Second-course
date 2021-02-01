@@ -1,0 +1,9 @@
+﻿  main.c
+  tool.c
+C:\Users\bohda\source\repos\matrix\matrix\tool.c(5): warning C4013: create_matrix: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\bohda\source\repos\matrix\matrix\tool.c(5): warning C4047: инициализация: "int **" отличается по уровням косвенного обращения от "int"
+  Создание кода...
+C:\Users\bohda\source\repos\matrix\matrix\tool.c(44): warning C4716: create_matrix: должна возвращать значение
+C:\Users\bohda\source\repos\matrix\matrix\tool.c(20): error C4700: использована неинициализированная локальная переменная "i"
+C:\Users\bohda\source\repos\matrix\matrix\tool.c(22): error C4700: использована неинициализированная локальная переменная "j"
+C:\Users\bohda\source\repos\matrix\matrix\tool.c(25): error C4700: использована неинициализированная локальная переменная "matrix"

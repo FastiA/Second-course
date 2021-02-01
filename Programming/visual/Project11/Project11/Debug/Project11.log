@@ -1,0 +1,18 @@
+﻿  dk_line.c
+C:\Users\bohda\source\repos\Project11\Project11\dk_line.c(68): warning C4473: "printf": передано недостаточно аргументов для строки формата
+  C:\Users\bohda\source\repos\Project11\Project11\dk_line.c(68): note: заполнители и их параметры ожидают переменное число аргументов в количестве 8, но было предоставлено 4
+  C:\Users\bohda\source\repos\Project11\Project11\dk_line.c(68): note: отсутствующий вариативный аргумент "5" требуется для строки форматирования "%d"
+C:\Users\bohda\source\repos\Project11\Project11\dk_line.c(83): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\bohda\source\repos\Project11\Project11\dk_line.c(81): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\bohda\source\repos\Project11\Project11\dk_line.c(82): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\bohda\source\repos\Project11\Project11\dk_line.c(97): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\bohda\source\repos\Project11\Project11\dk_line.c(95): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\bohda\source\repos\Project11\Project11\dk_line.c(96): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\bohda\source\repos\Project11\Project11\dk_line.c(111): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\bohda\source\repos\Project11\Project11\dk_line.c(109): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\bohda\source\repos\Project11\Project11\dk_line.c(110): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\bohda\source\repos\Project11\Project11\dk_line.c(125): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+C:\Users\bohda\source\repos\Project11\Project11\dk_line.c(123): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\bohda\source\repos\Project11\Project11\dk_line.c(124): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+C:\Users\bohda\source\repos\Project11\Project11\dk_line.c(141): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  Project11.vcxproj -> C:\Users\bohda\source\repos\Project11\Debug\Project11.exe

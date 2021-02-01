@@ -1,0 +1,6 @@
+﻿  main.c
+C:\Users\bohda\OneDrive\Прога\Project7\Project7\main.c(13): warning C4013: gets: нет определения; предполагается "extern" с возвратом типа "int"
+  tool.c
+C:\Users\bohda\OneDrive\Прога\Project7\Project7\tool.c(61): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  Создание кода...
+  Project7.vcxproj -> C:\Users\bohda\OneDrive\Прога\Project7\Debug\Project7.exe

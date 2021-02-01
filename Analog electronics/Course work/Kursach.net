@@ -1,0 +1,40 @@
+* C:\Users\bohda\AppData\Local\Temp\Rar$DIa12752.10216\Kursach.asc
+R1 Vcc N005 4.7k
+D1 N005 0 1N4148
+R2 N006 N005 10k
+XU1 N013 N006 N007 pot R=10k T=1
+R3 N013 0 1k
+C1 N007 0 2.2µ
+XU2 N012 N007 Vcc 0 N009 LM393
+D2 N008 N009 1N4148
+R4 Vcc N008 4.7k
+R6 N003 0 10k
+R5 Vcc N003 10k
+XU3 N008 N003 Vcc 0 N004 LM393
+C2 Vcc 0 0.1µ
+R7 Vcc N004 4.7k
+Q1 Vcc N004 N001 0 2N5551
+Q2 0 N004 N001 0 2N5401
+R8 N002 N001 10
+XU4 N010 N002 Vcc IRFR9024
+C3 Vcc 0 0.1µ
+L1 N010 N011 47m
+D3 0 N010 SS14
+R9 N014 N012 1k
+C5 N012 0 22p
+R10 N014 0 1
+R11 N014 0 1
+V1 Vcc 0 5
+C4 Vcc 0 100µ
+D5 N011 N014 LXMA-PW01-VFBin_E
+.model D D
+.lib C:\Users\bohda\Documents\LTspiceXVII\lib\cmp\standard.dio
+.model NPN NPN
+.model PNP PNP
+.lib C:\Users\bohda\Documents\LTspiceXVII\lib\cmp\standard.bjt
+.tran 0 100m 0 50n
+.lib ..\sym\EXTRA\IRF\LIB\irfr9024.spi
+.lib ..\sym\EXTRA\Misc\pot.lib
+.lib Sborka.lib
+.backanno
+.end

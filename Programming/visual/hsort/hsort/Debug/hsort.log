@@ -1,0 +1,7 @@
+﻿  tool.c
+C:\Users\bohda\source\repos\hsort\hsort\tool.c(19): warning C4473: "fscanf_s": передано недостаточно аргументов для строки формата
+  C:\Users\bohda\source\repos\hsort\hsort\tool.c(19): note: заполнители и их параметры ожидают переменное число аргументов в количестве 2, но было предоставлено 1
+  C:\Users\bohda\source\repos\hsort\hsort\tool.c(19): note: отсутствующий вариативный аргумент "2" требуется для строки форматирования "%c"
+  C:\Users\bohda\source\repos\hsort\hsort\tool.c(19): note: этот аргумент используется в качестве размера буфера
+C:\Users\bohda\source\repos\hsort\hsort\tool.c(31): warning C4715: getArray: значение возвращается не при всех путях выполнения
+  hsort.vcxproj -> C:\Users\bohda\source\repos\hsort\Debug\hsort.exe

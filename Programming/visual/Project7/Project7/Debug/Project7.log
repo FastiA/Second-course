@@ -1,0 +1,3 @@
+﻿  main.c
+C:\Users\bohda\source\repos\Project7\Project7\main.c(13): warning C4013: gets: нет определения; предполагается "extern" с возвратом типа "int"
+  Project7.vcxproj -> C:\Users\bohda\source\repos\Project7\Debug\Project7.exe

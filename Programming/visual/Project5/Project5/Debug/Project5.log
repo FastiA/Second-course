@@ -1,0 +1,5 @@
+﻿  main.c
+c1 : fatal error C1083: Не удается открыть файл источник: main.c: No such file or directory,
+  tool.c
+C:\Users\bohda\source\repos\Project5\Project5\tool.c(3): fatal error C1083: Не удается открыть файл включение: tool.h: No such file or directory,
+  Создание кода...

@@ -1,0 +1,4 @@
+﻿  tool.c
+C:\Users\bohda\source\repos\Project4\Project4\tool.c(51): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+MSVCRTD.lib(exe_main.obj) : error LNK2019: ссылка на неразрешенный внешний символ _main в функции "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\bohda\source\repos\Project4\Debug\Project4.exe : fatal error LNK1120: неразрешенных внешних элементов: 1

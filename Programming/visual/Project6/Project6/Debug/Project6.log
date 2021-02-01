@@ -1,0 +1,6 @@
+﻿  tool.c
+C:\Users\bohda\source\repos\Project6\Project6\tool.c(12): warning C4013: printf: нет определения; предполагается "extern" с возвратом типа "int"
+tool.obj : error LNK2005: _main уже определен в main.obj
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ _u_system в функции _end
+main.obj : error LNK2019: ссылка на неразрешенный внешний символ _suma в функции _end
+C:\Users\bohda\source\repos\Project6\Debug\Project6.exe : fatal error LNK1120: неразрешенных внешних элементов: 2

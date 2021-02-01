@@ -1,0 +1,21 @@
+Circuit: * C:\Users\bohda\Desktop\Laba1\Draft2.asc
+
+.OP point found by inspection.
+
+Date: Tue Feb 18 18:25:00 2020
+Total elapsed time: 0.043 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 2490
+traniter = 2490
+tranpoints = 1246
+accept = 1206
+rejected = 40
+matrix size = 5
+fillins = 0
+solver = Normal
+Matrix Compiler1: 114 bytes object code size  0.0/0.0/[0.0]
+Matrix Compiler2: off  [0.0]/0.1/0.0
+

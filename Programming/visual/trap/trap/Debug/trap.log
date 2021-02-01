@@ -1,0 +1,14 @@
+﻿  array.c
+  main.c
+  tool.c
+C:\Users\bohda\source\repos\trap\trap\array.c(138,16): warning C4047:  return: "int" отличается по уровням косвенного обращения от "int *"
+C:\Users\bohda\source\repos\trap\trap\tool.c(47,111): warning C4244:  =: преобразование "double" в "float", возможна потеря данных
+C:\Users\bohda\source\repos\trap\trap\tool.c(48,111): warning C4244:  =: преобразование "double" в "float", возможна потеря данных
+C:\Users\bohda\source\repos\trap\trap\tool.c(49,111): warning C4244:  =: преобразование "double" в "float", возможна потеря данных
+C:\Users\bohda\source\repos\trap\trap\tool.c(50,111): warning C4244:  =: преобразование "double" в "float", возможна потеря данных
+C:\Users\bohda\source\repos\trap\trap\tool.c(54,117): warning C4244:  =: преобразование "double" в "float", возможна потеря данных
+C:\Users\bohda\source\repos\trap\trap\tool.c(65,111): warning C4244:  =: преобразование "double" в "float", возможна потеря данных
+  Создание кода...
+C:\Users\bohda\source\repos\trap\trap\tool.c(66,111): warning C4244:  =: преобразование "double" в "float", возможна потеря данных
+C:\Users\bohda\source\repos\trap\trap\tool.c(66,111): warning C4244: C:\Users\bohda\source\repos\trap\trap\array.c(140) : warning C4715: linSearch: значение возвращается не при всех путях выполнения
+  trap.vcxproj -> C:\Users\bohda\source\repos\trap\Debug\trap.exe
